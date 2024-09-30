@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Education History</title>
+</head>
+<body>
+    <!-- this page is created by Jerred Carter on 9/29/2024 -->
+
+    <h1>My Education History</h1>
+
+    <table border="1">
+        <caption>My Education</caption>
+        <thead>
+            <tr>
+                <th>School</th>
+                <th>Period</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>St.pauls Middle School</td>
+                <td>2013 - 2016</td>
+            </tr>
+            <tr>
+                <td>St.pauls High School</td>
+                <td>2016 - 2020</td>
+            </tr>
+            <tr>
+                <td colspan="2">I am at UNCP now</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <pre>
+    Founded in 1887 as a school for the education of 
+    American Indians, 
+    the University of North Carolina at Pembroke 
+    now serves a distinctly diverse student body.
+    </pre>
+
+    <a href="https://www.uncp.edu/" target="_blank">Visit the UNCP site</a><br>
+
+    <iframe 
+        width="300" 
+        height="150" 
+        src="https://www.youtube.com/embed/M_GfOPDR-ac" 
+        sandbox="allow-scripts allow-same-origin" 
+        allow="autoplay">
+    </iframe>
+
+    <br>
+    <a href="HW1solution1.html">Back to My Home Page</a>
+</body>
+</html>
